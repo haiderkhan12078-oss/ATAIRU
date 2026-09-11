@@ -1,0 +1,18 @@
+ATAIRU MULTI-PAGE CONCEPT
+
+1. Extract this entire ZIP into a new folder.
+2. Double-click index.html to open the website.
+3. Keep all six HTML files and the assets folder together.
+
+No npm install is needed. There are no external dependencies.
+
+Pages: Home, Why Now, Experience, Agenda, AI Readiness, Invitation.
+Quiz: four questions, back button, retake, downloadable results.
+Invitation: validated form, review, edit, downloadable request.
+No requests are emailed or stored on a server. A production CRM/email
+integration requires a chosen service and configuration.
+The event agenda and assessment are illustrative proposal content.
+
+GITHUB PAGES
+Upload the contents of this folder (not the ZIP) to your repository root.
+Settings > Pages > Deploy from a branch > main > /(root) > Save.
